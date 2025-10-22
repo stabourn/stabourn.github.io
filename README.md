@@ -1,2 +1,2 @@
 # stabourn.github.io
-Web Basics Site - INFO 654
+Web Basics Project Site - INFO 654 Fall 2025
