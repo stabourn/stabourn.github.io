@@ -33,12 +33,10 @@ h3 {
 
 li {
     padding: 10px;
-    
 }
 
 p {
-    text-align: left;
-    
+    text-align: left; 
     
 }
 .home {
@@ -75,6 +73,11 @@ p {
 .about {    
     background-color: #ecedf9
 }
+
+.list {
+    width: 50%
+}
+
 .galleries {
     width: 50%;
     margin: 0 auto;
@@ -87,10 +90,21 @@ p {
     height: auto;
     margin-bottom: 45px;
 }
+
+
 .homeimage {
-    display: block;
-    margin: auto;
-    width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px auto;
+  width: 100%;
+}
+
+.homeimage img {
+  width: 50vw;
+  height: auto; 
+  display: block;
+  margin: 0 auto;
 }
 
 .aboutimage {
