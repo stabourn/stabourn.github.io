@@ -1,0 +1,113 @@
+* {
+    font-family:'apercu', sans-serif;
+    width: 95%;
+    margin: auto;
+    position: relative;
+    table-layout: fixed;
+}
+
+.globalnav {   
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #222329;
+}
+
+h2 {
+    padding-bottom: 10px;
+    
+}
+h3 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+li {
+    padding: 10px;
+    
+}
+
+p {
+    text-align: left;
+    
+    
+}
+.home {
+    font-style:normal;
+    margin: auto;
+    background-color: #f2f2e7;
+}
+
+.gallery {
+    background-color: #f4eadb;
+}
+
+
+.gallerynav {
+    text-align: left;
+}
+
+.where {
+    background-color:#c1ceda;
+}
+.are {
+    background-color: #f8ecd7;
+    
+}
+.you {
+    background-color: #cfeaea
+    
+}
+
+.contact {
+    background-color: #dbdbdb;
+}
+
+.about {    
+    background-color: #ecedf9
+}
+.galleries {
+    width: 95%;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+.galleries img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 45px;
+}
+.homeimage {
+    display: block;
+    margin: auto;
+    width: 70%;
+}
+
+.aboutimage {
+    width: 40%;
+    padding: 40px;
+}
+
+footer {
+    text-align: right;
+    font-size: x-small;
+    padding: 10px;
+    margin-top: 40px;
+    border: solid;
+}
+
+.footer-nav {
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
